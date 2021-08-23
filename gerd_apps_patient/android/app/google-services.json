@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "654844090916",
+    "project_id": "gerdmonitoringapps",
+    "storage_bucket": "gerdmonitoringapps.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:654844090916:android:3bfb8d322aa0119a9cd6b1",
+        "android_client_info": {
+          "package_name": "com.example.gerdapps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "654844090916-vvmsjm7j301c9ghi7r7iu9gtjbj88jju.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmhAmTbKn1RlQWhVQ9PyR1r6aSVr7cblk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "654844090916-vvmsjm7j301c9ghi7r7iu9gtjbj88jju.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

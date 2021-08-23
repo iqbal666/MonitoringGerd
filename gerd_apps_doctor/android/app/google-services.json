@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "654844090916",
+    "project_id": "gerdmonitoringapps",
+    "storage_bucket": "gerdmonitoringapps.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:654844090916:android:3bfb8d322aa0119a9cd6b1",
+        "android_client_info": {
+          "package_name": "com.example.gerdapps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "654844090916-vvmsjm7j301c9ghi7r7iu9gtjbj88jju.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmhAmTbKn1RlQWhVQ9PyR1r6aSVr7cblk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "654844090916-vvmsjm7j301c9ghi7r7iu9gtjbj88jju.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "654844090916-3gq9fa9h08im94dm2b5sdgl527jcikf1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.gerdapps"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:654844090916:android:2b2e0dc14a22f4b39cd6b1",
+        "android_client_info": {
+          "package_name": "com.example.gerdappsdoctor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "654844090916-vvmsjm7j301c9ghi7r7iu9gtjbj88jju.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmhAmTbKn1RlQWhVQ9PyR1r6aSVr7cblk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "654844090916-vvmsjm7j301c9ghi7r7iu9gtjbj88jju.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "654844090916-3gq9fa9h08im94dm2b5sdgl527jcikf1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.gerdapps"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
